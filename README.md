@@ -22,7 +22,6 @@
 8. Full Brightness Toggle + Collective
 9. Continuity + Indium
 10. ViaFabricPlus + No Chat Reports
-11. No Fog
 
 ## 자세한 설정 (위에 모드를 모두 설치 했을 때 기준)
 1. 렌더 거리는 원하는 대로 설정합니다.
